@@ -27,7 +27,7 @@ public class Main {
         }
         System.out.println("----------");
         System.out.println("Задача №4");
-        int age = 98;
+        int age = 24;
         if (age < 2) {
             System.out.println("Если возраст человека равен " + age + " то ему пора спать.");
         } else {
@@ -42,5 +42,7 @@ public class Main {
                 }
             }
         }
+        System.out.println("----------");
+        System.out.println("Задача №5");
     }
 }

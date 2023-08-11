@@ -79,5 +79,13 @@ public class Main {
                 System.out.println("Вагон заполнен");
             }
         }
+        System.out.println("----------");
+        System.out.println("Задача №7");
+        int one = 34;
+        int two = 75;
+        int three = 21;
+        if (one >= two && one >=three) {
+            System.out.println(one);
+        } else {if (two > one && two > three) {System.out.println(two);} else {System.out.println(three);}}
     }
 }
